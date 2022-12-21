@@ -1,4 +1,5 @@
 # Ujian Akhir Semester 
+  
   <br>Mata Kuliah 	: Dasar Pemrograman
   <br> Nama		: Silvia Febriani
   <br>NIM		: 1227050126
@@ -10,10 +11,9 @@
   Array adalah tipe data terstruktur yang berguna untuk menyimpan sejumlah data yang bertipe sama.
   
 ## Source Code
-  #include<iostream>
+  	#include<iostream>
 	using namespace std;
-
-
+	
 	int main()
 	{
 	int m, n;
