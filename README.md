@@ -1,18 +1,15 @@
-  ## Ujian Akhir Semester 
-  
+ ## Ujian Akhir Semester 
   <br>Mata Kuliah 	: Dasar Pemrograman
   <br> Nama		: Silvia Febriani
   <br>NIM		: 1227050126
   <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
 
-  ## Deskripsi Umum
-  
+ ## Deskripsi Umum
   Pengertian Definisi Array 2 Dimensi
   Array 2 dimensi adalah sebutan untuk array yang penomoran index-nya menggunakan 2 buah angka.
   Array adalah tipe data terstruktur yang berguna untuk menyimpan sejumlah data yang bertipe sama.
   
 `## Source Code
-
   	#include<iostream>
 	using namespace std;
 	
@@ -118,8 +115,7 @@
 	return 0;
 	}
   
-  
-	## Output
+ ## Output
   				UJIAN AKHIR SEMESTER
 	===============================================================
  	Mata Kuliah    : Dasar Pemrograman
