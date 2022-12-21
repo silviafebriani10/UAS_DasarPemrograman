@@ -118,13 +118,12 @@
   
 ## Output
   UJIAN AKHIR SEMESTER
-	=====================================
+	===============================================================
  	Mata Kuliah    : Dasar Pemrograman
 	Nama            : Silvia Febriani
 	NIM             : 1227050126
 	Jurusan         : Teknik Informatika-1C
-	========================================================================================================================
-
+	===============================================================
 	No.1 Mengubah baris jadi kolom dan kolom jadi baris (transpose)
 	===============================================================
 	Masukkan jumlah baris matriks: 3
