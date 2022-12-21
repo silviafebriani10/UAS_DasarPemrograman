@@ -9,7 +9,7 @@
 	Array 2 dimensi adalah sebutan untuk array yang penomoran index-nya menggunakan 2 buah angka.
 	Array adalah tipe data terstruktur yang berguna untuk menyimpan sejumlah data yang bertipe sama.
   
-`## Source Code
+## Source Code
   	#include<iostream>
 	using namespace std;
 	
