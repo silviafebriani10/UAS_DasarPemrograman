@@ -2,7 +2,7 @@
 	<br>Mata Kuliah 	: Dasar Pemrograman
 	<br> Nama		: Silvia Febriani
 	<br>NIM			: 1227050126
-	<br>Jurusan	:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
+	<br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
 
  ## A. Deskripsi Umum
 	Pengertian Definisi Array 2 Dimensi
@@ -22,7 +22,7 @@
 	cout << "Mata Kuliah	: Dasar Pemrograman"<<endl;
 	cout << "Nama		: Silvia Febriani"<<endl;
 	cout << "NIM		: 1227050126"<<endl;
-	cout << "Jurusan		: Teknik Informatika-1C"<<endl;
+	cout << "Jurusan	: Teknik Informatika-1C"<<endl;
 
 	cout << "==============================================================="<<endl<<endl;
 
