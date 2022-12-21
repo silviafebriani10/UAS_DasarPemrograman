@@ -117,7 +117,7 @@
 	}
   
 ## Output
-  UJIAN AKHIR SEMESTER
+  				UJIAN AKHIR SEMESTER
 	===============================================================
  	Mata Kuliah    : Dasar Pemrograman
 	Nama            : Silvia Febriani
