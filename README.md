@@ -2,7 +2,7 @@
 	<br>Mata Kuliah 	: Dasar Pemrograman
 	<br> Nama		: Silvia Febriani
 	<br>NIM			: 1227050126
-	<br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
+	<br>Jurusan	:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
 
  ## A. Deskripsi Umum
 	Pengertian Definisi Array 2 Dimensi
@@ -118,7 +118,7 @@
  ## C. Output
   				UJIAN AKHIR SEMESTER
 	===============================================================
- 	Mata Kuliah    : Dasar Pemrograman
+ 	Mata Kuliah     : Dasar Pemrograman
 	Nama            : Silvia Febriani
 	NIM             : 1227050126
 	Jurusan         : Teknik Informatika-1C
