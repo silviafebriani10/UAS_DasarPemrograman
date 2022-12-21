@@ -17,7 +17,7 @@
 	{
 	int m, n;
 
-	cout << "UJIAN AKHIR SEMESTER"<<endl;
+	cout << "	UJIAN AKHIR SEMESTER	   "<<endl;
 	cout << "=================================="<<endl;
 	cout << "Mata Kuliah	: Dasar Pemrograman"<<endl;
 	cout << "Nama		: Silvia Febriani"<<endl;
