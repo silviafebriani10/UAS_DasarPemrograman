@@ -118,7 +118,8 @@
 	return 0;
 	}
   
-## Output
+  
+	## Output
   				UJIAN AKHIR SEMESTER
 	===============================================================
  	Mata Kuliah    : Dasar Pemrograman
