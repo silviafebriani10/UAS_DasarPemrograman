@@ -118,49 +118,49 @@
   
 ## Output
   UJIAN AKHIR SEMESTER
-=====================================
- Mata Kuliah    : Dasar Pemrograman
-Nama            : Silvia Febriani
-NIM             : 1227050126
-Jurusan         : Teknik Informatika-1C
-========================================================================================================================
+	=====================================
+ 	Mata Kuliah    : Dasar Pemrograman
+	Nama            : Silvia Febriani
+	NIM             : 1227050126
+	Jurusan         : Teknik Informatika-1C
+	========================================================================================================================
 
-No.1 Mengubah baris jadi kolom dan kolom jadi baris (transpose)
-===============================================================
-Masukkan jumlah baris matriks: 3
-Masukkan jumlah kolom matriks: 2
-Masukkan Nilai-Nilai Matriks
-Baris ke 1, Kolom ke 1 : 23
-Baris ke 1, Kolom ke 2 : 45
-Baris ke 2, Kolom ke 1 : 67
-Baris ke 2, Kolom ke 2 : 90
-Baris ke 3, Kolom ke 1 : 10
-Baris ke 3, Kolom ke 2 : 12
+	No.1 Mengubah baris jadi kolom dan kolom jadi baris (transpose)
+	===============================================================
+	Masukkan jumlah baris matriks: 3
+	Masukkan jumlah kolom matriks: 2
+	Masukkan Nilai-Nilai Matriks
+	Baris ke 1, Kolom ke 1 : 23
+	Baris ke 1, Kolom ke 2 : 45
+	Baris ke 2, Kolom ke 1 : 67
+	Baris ke 2, Kolom ke 2 : 90
+	Baris ke 3, Kolom ke 1 : 10
+	Baris ke 3, Kolom ke 2 : 12
 
-Hasil dari matriks yang diinputkan :
-23      45
-67      90
-10      12
+	Hasil dari matriks yang diinputkan :
+	23      45
+	67      90
+	10      12
 
-Hasil Transpose Matriks:
-23      67      10
-45      90      12
+	Hasil Transpose Matriks:
+	23      67      10
+	45      90      12
 
-No.2 Menampilkan bilangan yang habis dibagi 3, 5 dan 7
-=======================================================
-Masukkan jumlah baris matriks: 4
-Masukkan jumlah kolom matriks: 2
-Masukkan Nilai-Nilai
-(1,1) : 176
-(1,2) : 115
-(2,1) : 315
-(2,2) : 105
-(3,1) : 415
-(3,2) : 515
-(4,1) : 505
-(4,2) : 950
+	No.2 Menampilkan bilangan yang habis dibagi 3, 5 dan 7
+	=======================================================
+	Masukkan jumlah baris matriks: 4
+	Masukkan jumlah kolom matriks: 2
+	Masukkan Nilai-Nilai
+	(1,1) : 176
+	(1,2) : 115
+	(2,1) : 315
+	(2,2) : 105
+	(3,1) : 415
+	(3,2) : 515
+	(4,1) : 505
+	(4,2) : 950
 
-Nilai Array yang habis dibagi 3, 5, 7 yaitu : 315 105
---------------------------------
-Process exited after 64.19 seconds with return value 0
-Press any key to continue . . .
+	Nilai Array yang habis dibagi 3, 5, 7 yaitu : 315 105
+	--------------------------------
+	Process exited after 64.19 seconds with return value 0
+	Press any key to continue . . .
